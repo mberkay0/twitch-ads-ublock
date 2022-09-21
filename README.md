@@ -5,12 +5,15 @@
 <p align="center">
 
   <h3 align="center">Twitch ADS Block for uBlock Origin</h3>
+ 
   
-  <img align="left" alt="twitch" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png"/>
+  <h3 align="center">
+    <img align="left" alt="twitch" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png"/>
+      Twitch ADS Block for uBlock Origin
+    <img align="right" alt="twitch" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png"/>
+  </h3>
   
-  <h3 align="center">Twitch ADS Block for uBlock Origin</h3>
   
-  <img align="right" alt="twitch" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png"/>
   
   <p align="center">
     If you're tired of new twitch ads, here's a little script for ublock.

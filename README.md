@@ -31,7 +31,7 @@ Follow the steps below to enable the easy-to-use and ready-made script for uBloc
 
 2. Click the Settings icon 
 
-<img align="left" alt="settings" width="26px" src="https://cdn-icons-png.flaticon.com/512/2880/2880986.png" />
+<img align="left" alt="settings" width="26px" src="https://cdn-icons-png.flaticon.com/512/2881/2881036.png" />
 
 3. Paste the link below where labelled with the square in the picture
 

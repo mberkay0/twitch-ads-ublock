@@ -38,6 +38,7 @@ copy this:
 ```sh
 https://raw.githubusercontent.com/mberkay0/twitch-ads-ublock/main/twitch_ads.js
 ```
+and paste like that
 
 <img src="/images/pasted_script.png" alt="Advanced Settings"/>
 

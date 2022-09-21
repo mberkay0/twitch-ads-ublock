@@ -26,7 +26,7 @@ Follow the steps below to enable the easy-to-use and ready-made script for uBloc
 
 1. Be an advanced user
 
-<img src="/images/advanced.png" alt="Advanced Settings"/>
+<img src="/images/advanced.png" alt="Advanced Settings"  width="290" height="400"/>
 
 2. Click the Settings icon <img align="left" alt="settings" width="26px" src="https://cdn-icons-png.flaticon.com/512/2881/2881036.png" />
   

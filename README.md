@@ -12,8 +12,7 @@
   
   
   <p align="center">
-    If you are tired of new twitch ads, here is a little script for uBlock.
-    <img alt="twitch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/UBlock_Origin.svg/1200px-UBlock_Origin.svg.png"/>
+    If you are tired of new twitch ads, here is a little script for <img alt="twitch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/UBlock_Origin.svg/1200px-UBlock_Origin.svg.png"/>
     <br/>
   </p>
 </p>

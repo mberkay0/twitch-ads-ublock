@@ -3,9 +3,6 @@
 
 <br/>
 <p align="center">
-
-  <h3 align="center">Twitch ADS Block for uBlock Origin</h3>
- 
   
   <h3 align="center">
     <img align="left" alt="twitch" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png"/>

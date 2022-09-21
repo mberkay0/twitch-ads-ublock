@@ -28,9 +28,9 @@ Follow the steps below to enable the easy-to-use and ready-made script for uBloc
 
 <img src="/images/advanced.png" alt="Advanced Settings"/>
 
-2. Click the Settings icon 
+2. Click the Settings icon
 
-<img align="left" alt="settings" width="26px" src="https://cdn-icons-png.flaticon.com/512/2881/2881036.png" />
+<h><img align="left" alt="settings" width="26px" src="https://cdn-icons-png.flaticon.com/512/2881/2881036.png" /><h/>
 
 3. Paste the link below where labelled with the square in the picture
 

@@ -32,7 +32,7 @@ Follow the steps below to enable the easy-to-use and ready-made script for uBloc
   
 3. Paste the link below where labelled with the square in the picture
 
-<img src="/images/userResourceLoc.png" alt="Advanced Settings" width="400" height="130"/>
+<img src="/images/userResourceLoc.png" alt="Advanced Settings" width="150" height="400"/>
 
 copy this:
 ```sh

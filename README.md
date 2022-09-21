@@ -6,9 +6,9 @@
 
   <h3 align="center">Twitch ADS Block for uBlock Origin</h3>
   
-  [<img align="left" alt="twitch" src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png" />][twitch]
+  <img align="left" alt="twitch" width="26px" src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png"/>
   
-  <h3 align="center">Twitch ADS Block for uBlock Origin https://cdn-icons-png.flaticon.com/512/2111/2111668.png</h3>
+  <h3 align="center">Twitch ADS Block for uBlock Origin</h3>
   
   <p align="center">
     If you're tired of new twitch ads, here's a little script for ublock.
@@ -29,7 +29,7 @@ Follow the steps below to enable the easy-to-use and ready-made script for uBloc
 
 2. Click the Settings icon 
 
-[<img align="left" alt="settings" src="https://cdn-icons-png.flaticon.com/512/2880/2880986.png" />][settings]
+<img align="left" alt="settings" width="26px" src="https://cdn-icons-png.flaticon.com/512/2880/2880986.png" />
 
 3. Paste the link below where labelled with the square in the picture
 
